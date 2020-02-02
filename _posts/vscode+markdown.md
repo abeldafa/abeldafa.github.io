@@ -7,7 +7,7 @@ author:     gy
 # header-img: img/post-bg-cook.jpg
 catalog: true
 tags:
-    - tips
+    # - tips
 ---
 ctrl shift v 查看预览
 
