@@ -1,7 +1,7 @@
 # Site settings
 title: gy
 SEOTitle: gy的博客
-header-img: img/post-bg-desk.jpg
+header-img: img/post-bg-mma-2.jpg
 email: abeldafa@gmail.com
 description: "hello description."
 keyword: "abeldafa"
@@ -12,7 +12,7 @@ github_repo: "https://github.com/abeldafa/abeldafa.github.io.git" # you code rep
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "Who is tough guy now, tough guy?"
-sidebar-avatar: /img/post-bg-mma-2.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: /img/avatar_g.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
